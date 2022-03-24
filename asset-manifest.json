@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tenzies-2022/static/css/main.b365dfe2.css",
+    "main.js": "/tenzies-2022/static/js/main.ed21aec2.js",
+    "static/js/787.030a1986.chunk.js": "/tenzies-2022/static/js/787.030a1986.chunk.js",
+    "index.html": "/tenzies-2022/index.html",
+    "main.b365dfe2.css.map": "/tenzies-2022/static/css/main.b365dfe2.css.map",
+    "main.ed21aec2.js.map": "/tenzies-2022/static/js/main.ed21aec2.js.map",
+    "787.030a1986.chunk.js.map": "/tenzies-2022/static/js/787.030a1986.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b365dfe2.css",
+    "static/js/main.ed21aec2.js"
+  ]
+}
